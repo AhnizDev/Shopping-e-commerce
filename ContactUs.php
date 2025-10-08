@@ -23,10 +23,10 @@
 <meta content="3112719995172478403" name="BlogId">
 <!-- Css AHNIZ-->
 <link href="./shaindex.css"  rel="stylesheet">
-          
+<link href="./slide.css"  rel="stylesheet">       
 
 <!-- Title -->
-<title>Ahniz | Shop</title>
+<title>Ahniz | Contact us</title>
 
 <link rel="service.post" type="application/atom+xml" title="EL ZAIM - Atom" href="https://www.blogger.com/feeds/3112719995172478403/posts/default">
 <link as="font" crossorigin="anonymous" href="https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hNI-a1biLD-H.woff2" rel="preload">
@@ -46,7 +46,7 @@
 <div id="top-head">أطلب الآن وادفع عند استلام المنتج ومعاينته </div>
 </div></div>
 <header id="header">
-<a href="https://shopping-ahniz.great-site.net/">
+<a href="https://hanifi-khelaf.great-site.net/">
 <div id="mobile"><svg class="cart"><use href="#ic-menu"></use></svg></div>
 <div class="section" id="header1" name="القائمة العلوية(لوغو + صفحات)"><div class="widget Image" data-version="2" id="Image1"><a>
 <a href="https://shopping-ahniz.great-site.net/" id="toplogo" style="text-decoration: none;">
@@ -56,6 +56,7 @@
 <div id="nav">
 <ul id="navbar">
 <li id="close"><i style="cursor: pointer;font-size: 58px;font-weight: bold;font-family: none;">×</i></li>
+
 </ul>
 </div>
 </div></div>
@@ -90,470 +91,114 @@ mysqli_close($conn);
 <div class="section-heading-content">
 <div class="section-title">
 <h3 class="title"> منتجاتنا أصلية و ذات جودة عالية </h3>
-</div><p class="section-subtitle">تصفح قائمة المنتجات الأكثر رواجا </p>
+</div><p class="section-subtitle">اتصل بنا</p>
 </div>
 </div>
 </div></div>
-<!--------------------------------       images1--------------->
-<div class="section" id="product1" name="خصائص المنتجات وعملة الموقع مع الولايات"><div class="widget Blog" data-version="2" id="Blog1">
-<div class="pro-container" id="pro-container">
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="/cca-RBcAP2nD.php" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/rbcap.jpg">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="/cca-RBcAP2nD.php" style="text-decoration: none;">
-<h5> Mikrotik RouterBOARD cAP-2nD (ceiling Access Point) - Radio access point (RBcAP2nD)</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">30000<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">38000</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[0].innerHTML = document.getElementsByClassName("old")[0].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[0].innerHTML = document.getElementsByClassName("price")[0].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-</script>
+<style>
+wp-block-image img {
+    box-sizing: border-box;
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+}
 
-</div><a class="button bgbtn" href="/cca-RBcAP2nD.php"> Buy now </a>
-</div>
-<!--------------------------------    end    images1--------------->
+.wp-block-image a {
+    display: inline-block
+}
 
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://shopping-ahniz.great-site.net/cca-RB951G-2HnD.php" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/RB951G-2HnD.jpg">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://shopping-ahniz.great-site.net/cca-RB951G-2HnD.php" style="text-decoration: none;">
-<h5>Mikrotik RouterBOARD 951G-2HnD 2.4Ghz AP, 5xGigabit Ethernet, USB, 600MHz CPU, 128MB RAM</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">48000<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">52000</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[1].innerHTML = document.getElementsByClassName("old")[1].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[1].innerHTML = document.getElementsByClassName("price")[1].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
+.wp-block-image img {
+    box-sizing: border-box;
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom
+}
 
-</script>
-</div><a class="button bgbtn" href="https://shopping-ahniz.great-site.net/cca-RB951G-2HnD.php"> اشتري الآن </a>
-</div>
-<!-- deux produits textttt ------------------------------------------------------------------------------------------------------------------->
+@media (prefers-reduced-motion:no-preference) {
+    .wp-block-image img.hide {
+        visibility: hidden
+    }
 
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://shopping-ahniz.great-site.net/cca-Digium-TDM2400P.php" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/cardp.jpg">
-<img alt="" loading="lazy" src="images/digium.avif">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://shopping-ahniz.great-site.net/cca-Digium-TDM2400P.php" style="text-decoration: none;">
-<h5>La carte Digium TDM2400P. 6 modules FXS quad-ports 24 lignes téléphoniques externes. Digium TDM, Asterix PBX</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">80000<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">120000</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[2].innerHTML = document.getElementsByClassName("old")[2].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[2].innerHTML = document.getElementsByClassName("price")[2].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
+    .wp-block-image img.show {
+        animation: show-content-image .4s
+    }
+}
 
-</script>
-</div><a class="button bgbtn" href="https://shopping-ahniz.great-site.net/cca-Digium-TDM2400P.php"> Buy now </a>
-</div>
+.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a {
+    border-radius: inherit
+}
 
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://shopping-ahniz.great-site.net/cca-Fiber-Transceiver.php" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/ft.jpg">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://shopping-ahniz.great-site.net/cca-Fiber-Transceiver.php" style="text-decoration: none;">
-<h5>FIBER/T TRANSCEIVER 10/100/1000M Ethernet Media Converter</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">1600<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">2800</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[3].innerHTML = document.getElementsByClassName("old")[3].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[3].innerHTML = document.getElementsByClassName("price")[3].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
+.wp-block-image.has-custom-border img {
+    box-sizing: border-box
+}
 
-</script>
-</div><a class="button bgbtn" href="https://shopping-ahniz.great-site.net/cca-Fiber-Transceiver.php"> اشتري الآن </a>
-</div>
+.wp-block-image.aligncenter {
+    text-align: center
+}
+
+.wp-block-image.alignfull a,.wp-block-image.alignwide a {
+    width: 100%
+}
+
+.wp-block-image.alignfull img,.wp-block-image.alignwide img {
+    height: auto;
+    width: 100%
+}
+
+.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright {
+    display: table
+}
+
+.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption {
+    caption-side: bottom;
+    display: table-caption
+}
+
+.wp-block-image .alignleft {
+    float: left;
+    margin: .5em 1em .5em 0
+}
+
+.wp-block-image .alignright {
+    float: right;
+    margin: .5em 0 .5em 1em
+}
+
+.wp-block-image .aligncenter {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-block-image :where(figcaption) {
+    margin-bottom: 1em;
+    margin-top: .5em
+}
+
+.wp-block-image.is-style-circle-mask img {
+    border-radius: 9999px
+}
+</style>
 
 <center>
-<!--------------------------------       imagesend web deux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits texttttdeux produits textttt--------------->
-<center>
-<div style="margin-left:1%;margin-right:1%;width:100%;" class="section" id="product1" name="خصائص المنتجات وعملة الموقع مع الولايات"><div class="widget Blog" data-version="2" id="Blog1">
-<div class="pro-container" id="pro-container">
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://www.t.me/CallAhniz" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/dev.png">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://www.t.me/CallAhniz" style="text-decoration: none;">
-<h5>Développement web sur mesure, front-end et back-end. Optimiser votre business avec AhnizAssit DevOps<br> AhnizAssist IT can help optimize your operations, reduce costs, and ensure high performance at scale</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">15000<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">25000</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[0].innerHTML = document.getElementsByClassName("old")[0].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[0].innerHTML = document.getElementsByClassName("price")[0].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-</script>
 
-</div><a class="button bgbtn" href="https://www.t.me/CallAhniz">Hotline</a>
-</div>
-
-</center>
-<!--------------------------------    end imagesend web--------------->
-
-<!--------------------------------       imagesend support---------------
-<right>
-<div class="section" id="product1" name="خصائص المنتجات وعملة الموقع مع الولايات"><div class="widget Blog" data-version="2" id="Blog1">
-<div class="pro-container" id="pro-container">
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://www.t.me/CallAhniz" style="text-decoration: none;">
-<img alt="" loading="lazy" src="images/aaa.webp">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://www.t.me/CallAhniz" style="text-decoration: none;">
-<h5>AhnizAssist App IT ProSupport, fournira un support technique professionnel et une assistance informatique</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">2000<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">3000</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[0].innerHTML = document.getElementsByClassName("old")[0].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[0].innerHTML = document.getElementsByClassName("price")[0].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-</script>
-
-</div><a class="button bgbtn" href="https://www.t.me/CallAhniz"> Support </a>
-</div>
-
-</right>
-<!--------------------------------    end    imagesend support--------------->
-
-
-
-
-<!--
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://s.zaimdz.com/2023/11/TY.html" style="text-decoration: none;">
-<img alt="" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNBdX4Qe-EbulPg4sXhKGSh82RmCunThu8kA1oXGfGPmbb0KycTDTu7UzHGwmdw7HtjJ_2dNdz8rXB0OHgqSueef1eFpMy8-6DZDEcTertFqBkUVcGhyphenhyphene8woP2V_eRn12Ep0m_PaCpXFSK_R42ZaYTPOkrpg6sQP375_8OLVXqJYPiUCrcUqUAD0rzNvA/s320/H3857GGRNBLK-6.jpg">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://s.zaimdz.com/2023/11/TY.html" style="text-decoration: none;">
-<h5>ساعة أصلية فخمة من الماركة العالمية T5 EMPIRE SERIES WATCH بلونين</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">6700<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">9800</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[4].innerHTML = document.getElementsByClassName("old")[4].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[4].innerHTML = document.getElementsByClassName("price")[4].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-
-</script>
-</div><a class="button bgbtn" href="https://s.zaimdz.com/2023/11/TY.html"> اشتري الآن </a>
-</div>
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://s.zaimdz.com/2023/11/curren-8442.html" style="text-decoration: none;">
-<img alt="" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2q9qKrbd466HxMGRjMdWVpZfPH-4gdJEIY_09TxLYMARB5HvPn9o6rfT0f0HJgTemvnf7JiyYeUzHqCfl39tw4ewVKNXMQIUKqSiKBiuM77Af8WB54YMF0gcMjnt5bZhz69N2x1N8xOxDAKXET_5I2DBsl5YTWNd_h0Wx3xmKdtBywgzRg4FhYllySJs/s320/CURREN-montre-bracelet-en-Silicone-pour-hommes-tanche-chronographe-Date-militaire-marque-de-luxe-Sport-Original.jpg_.webp">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://s.zaimdz.com/2023/11/curren-8442.html" style="text-decoration: none;">
-<h5>حصريا في الجزائر: CURREN 8442 ساعة رجالية فاخرة مقاومة للماء + كرونوغراف + تاريخ</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">5700<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">8600</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[5].innerHTML = document.getElementsByClassName("old")[5].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[5].innerHTML = document.getElementsByClassName("price")[5].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-
-</script>
-</div><a class="button bgbtn" href="https://s.zaimdz.com/2023/11/curren-8442.html"> اشتري الآن </a>
-</div>
-<div class="pro">
-<span class="onsale">تخفيض!</span>
-<a href="https://s.zaimdz.com/2023/11/naviforce-nf-9208-marron.html" style="text-decoration: none;">
-<img alt="" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoaKMLNwwqap0DDBSNAmq-NGom-ZAU4xKqure0IGgCXCAYMxadwjQgy02dKekSxrZHYb4zB20XQ1OkpDqxAxaIR-E22_F1T45cLF4xhXdmrzHbMmjODLXJom1NPYuJ_LyWcLUdncwAZpGEn0xRcQhFxIgqI-PduDbXsvO0Vi9F5ZWr8dSHacywdiCG-o/s320/2.webp">
-</a>
-<div class="des">
-<span class="span">
-</span>
-<a href="https://s.zaimdz.com/2023/11/naviforce-nf-9208-marron.html" style="text-decoration: none;">
-<h5>تخفيض حصري: ساعة أصلية من العلامة العالمية NAVIFORCE NF-9208 Marron بلون جذاب وأنيق</h5>
-</a>
-<div class="star">
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-<svg style="width: 13px; height: 13px;"><use href="#ic-start"></use></svg>
-</div>
-<h4 class="price">4900<span>
-د.ج
-</span></h4>
-<span class="old" style="text-decoration-line: line-through;"><span class="span">8600</span><span class="span">
-د.ج
-</span></span>
-<script>
-try {document.getElementsByClassName("old")[6].innerHTML = document.getElementsByClassName("old")[6].innerHTML.replace('old_','').replace('Old_','');}catch(err) {}
-try {document.getElementsByClassName("price")[6].innerHTML = document.getElementsByClassName("price")[6].innerHTML.replace('price_','').replace('Price_','');}catch(err) {}
-
-</script>
-</div><a class="button bgbtn" href="https://s.zaimdz.com/2023/11/naviforce-nf-9208-marron.html"> اشتري الآن </a>
-</div>
-</div>
--->
 <br>
-<!--<center>
-<span style="text-align:center;" id="demo">
-<div class="section-p1" style="cursor: pointer;" id="pagination" onclick="loadPost()">
-<a class="blog-pager-older-link" href="https://shopping-ahniz.great-site.net/" id="nextlink" style="pointer-events: none" title="">تحميل المزيد من المنتجات</a>
-</div>
-</span>
-</center>-->
-<center>
-<span id="demo">
-<div class="section-p1" style="cursor: pointer;" id="pagination" onclick="loadPost()">
-<a class="blog-pager-older-link" href=https://shopping-ahniz.great-site.net/search?updated-max=2024-12-19T20:22:00-08:00&amp;max-results=7 id="nextlink" style="pointer-events: none" title="">تحميل المزيد من المنتجات</a>
-</div>
-</span>
+
+<figure class="wp-block-image"><img decoding="async" src="images/cus.webp" alt="" class="wp-image-60853"></figure>
+
+<p>نحن دائماً&nbsp;<strong>جاهزون لمساعدتك!</strong>&nbsp;.. سنكون سعداء بالتواصل معك والرد على تساؤلاتك، تواصل معنا من خلال أي من قنوات الدعم التالية :</p>
+
+<p>هاتف /&nbsp;<strong>0696380479</strong></p>
+<p>البريد الإلكتروني /&nbsp;<strong><a href="mailto:hanifi.rssi@gmail.com">hanifi.rssi@gmail.com</a></strong></p>
+
+
+<p> موقع إلكتروني /&nbsp;<strong><a href="https://hanifi-khelaf.great-site.net">https://hanifi-khelaf.great-site.net</a></strong></p>
+
+<p>الشبكة الاجتماعية برقية
+ /&nbsp;<strong><a href="https://www.t.me/CallAhniz">CallAhniz</a></strong></p>
+
+<br><br>
 </center>
-
-
-<div class="section" id="sectionprd" name="شريط أقسام المتجر">
-<div class="widget Label" data-version="2" id="Label1">
-<div class="section-p1" id="prodsec">
-</div>
-</div></div>
-
-</div><div class="widget LinkList" data-version="2" id="LinkList1">
-<div class="widget-content" id="wilaya" style="display:none;">
-<option value="أدرار">أدرار</option>
-<option value="الشلف">الشلف</option>
-<option value="الأغواط">الأغواط</option>
-<option value="أم البواقي">أم البواقي</option>
-<option value="باتنة">باتنة</option>
-<option value="بجاية">بجاية</option>
-<option value="بسكرة">بسكرة</option>
-<option value="البليدة">البليدة</option>
-<option value="بشار">بشار</option>
-<option value="البويرة">البويرة</option>
-<option value="تمنراست">تمنراست</option>
-<option value="تبسة">تبسة</option>
-<option value="تلمسان">تلمسان</option>
-<option value="تيارت">تيارت</option>
-<option value="تيزي وزو">تيزي وزو</option>
-<option value="الجزائر">الجزائر</option>
-<option value="الجلفة">الجلفة</option>
-<option value="جيجل">جيجل</option>
-<option value="سطيف">سطيف</option>
-<option value="سعيدة">سعيدة</option>
-<option value="سكيكدة">سكيكدة</option>
-<option value="سيدي بلعباس">سيدي بلعباس</option>
-<option value="عنابة">عنابة</option>
-<option value="قالمة">قالمة</option>
-<option value="قسنطينة">قسنطينة</option>
-<option value="المدية">المدية</option>
-<option value="مستغانم">مستغانم</option>
-<option value="المسيلة">المسيلة</option>
-<option value="معسكر">معسكر</option>
-<option value="ورقلة">ورقلة</option>
-<option value="وهران">وهران</option>
-<option value="البيض">البيض</option>
-<option value="إليزي">إليزي</option>
-<option value="برج بوعريريج">برج بوعريريج</option>
-<option value="بومرداس">بومرداس</option>
-<option value="الطارف">الطارف</option>
-<option value="تندوف">تندوف</option>
-<option value="تيسمسيلت">تيسمسيلت</option>
-<option value="الوادي">الوادي</option>
-<option value="خنشلة">خنشلة</option>
-<option value="سوق أهراس">سوق أهراس</option>
-<option value="تيبازة">تيبازة</option>
-<option value="ميلة">ميلة</option>
-<option value="عين الدفلة">عين الدفلة</option>
-<option value="النعامة">النعامة</option>
-<option value="عين تيموشنت">عين تيموشنت</option>
-<option value="غرداية">غرداية</option>
-<option value="غليزان">غليزان</option>
-<option value="تيميمون">تيميمون</option>
-<option value="أولاد جلال">أولاد جلال</option>
-<option value="بني عباس">بني عباس</option>
-<option value="عين صالح">عين صالح</option>
-<option value="عين قزام">عين قزام</option>
-<option value="تقرت">تقرت</option>
-<option value="جانت">جانت</option>
-<option value="المنيعة">المنيعة</option>
-</div>
-<div style="display:none;">
-<p id="أدرار">p0_700,p1_00</p>
-<p id="الشلف">p0_600,p1_00</p>
-<p id="الأغواط">p0_700,p1_00</p>
-<p id="أم البواقي">p0_600,p1_00</p>
-<p id="باتنة">p0_600,p1_00</p>
-<p id="بجاية">p0_600,p1_00</p>
-<p id="بسكرة">p0_700,p1_00</p>
-<p id="البليدة">p0_500,p1_00</p>
-<p id="بشار">p0_800,p1_00</p>
-<p id="البويرة">p0_500,p1_00</p>
-<p id="تمنراست">p0_800,p1_00</p>
-<p id="تبسة">p0_600,p1_00</p>
-<p id="تلمسان">p0_600,p1_00</p>
-<p id="تيارت">p0_600,p1_00</p>
-<p id="تيزي وزو">p0_600,p1_00</p>
-<p id="الجزائر">p0_400,p1_00</p>
-<p id="الجلفة">p0_700,p1_00</p>
-<p id="جيجل">p0_600,p1_00</p>
-<p id="سطيف">p0_500,p1_00</p>
-<p id="سعيدة">p0_700,p1_00</p>
-<p id="سكيكدة">p0_600,p1_00</p>
-<p id="سيدي بلعباس">p0_600,p1_00</p>
-<p id="عنابة">p0_600,p1_00</p>
-<p id="قالمة">p0_600,p1_00</p>
-<p id="قسنطينة">p0_600,p1_00</p>
-<p id="المدية">p0_600,p1_00</p>
-<p id="مستغانم">p0_600,p1_00</p>
-<p id="المسيلة">p0_500,p1_00</p>
-<p id="معسكر">p0_600,p1_00</p>
-<p id="ورقلة">p0_700,p1_00</p>
-<p id="وهران">p0_600,p1_00</p>
-<p id="البيض">p0_700,p1_00</p>
-<p id="إليزي">p0_900,p1_00</p>
-<p id="برج بوعريريج">p0_600,p1_00</p>
-<p id="بومرداس">p0_500,p1_00</p>
-<p id="الطارف">p0_600,p1_00</p>
-<p id="تندوف">p0_900,p1_00</p>
-<p id="تيسمسيلت">p0_600,p1_00</p>
-<p id="الوادي">p0_700,p1_00</p>
-<p id="خنشلة">p0_600,p1_00</p>
-<p id="سوق أهراس">p0_600,p1_00</p>
-<p id="تيبازة">p0_500,p1_00</p>
-<p id="ميلة">p0_600,p1_00</p>
-<p id="عين الدفلة">p0_600,p1_00</p>
-<p id="النعامة">p0_700,p1_00</p>
-<p id="عين تيموشنت">p0_600,p1_00</p>
-<p id="غرداية">p0_700,p1_00</p>
-<p id="غليزان">p0_600,p1_00</p>
-<p id="تيميمون">p0_900,p1_00</p>
-<p id="أولاد جلال">p0_800,p1_00</p>
-<p id="بني عباس">p0_800,p1_00</p>
-<p id="عين صالح">p0_900,p1_00</p>
-<p id="عين قزام">p0_1300,p1_500</p>
-<p id="تقرت">p0_700,p1_00</p>
-<p id="جانت">p0_1500,p1_1000</p>
-<p id="المنيعة">p0_800,p1_00</p>
-</div>
-</div></div>
-<div class="section" id="sectionprd" name="شريط أقسام المتجر">
-<div class="widget Label" data-version="2" id="Label1">
-<div class="section-p1" id="prodsec">
-</div>
-</div></div>
-
-<footer  dir="rtl">
+<footer dir="rtl">
 <div class="section-p1 section" id="footer" name="الفوتر (تعديل واضافة الصفحات اسفل المتجر)"><div class="widget PageList" data-version="2" id="PageList4">
 <div class="col">
 <a href="https://shopping-ahniz.great-site.net/" id="logobottom" style="text-decoration: none;">
@@ -580,8 +225,7 @@ try {document.getElementsByClassName("price")[6].innerHTML = document.getElement
 <h3 class="title">
 عن المتجر:
 </h3>
-<a href="#">الصفحة الرئيسية </a><br>
-<span style="text-align: right;" class="caption"><a style="text-align: right;" href="/ContactUs.php">اتصل بنا</a></span><br>
+<a href="#">الصفحة الرئيسية </a>
 </div>
 </div><div class="widget PageList" data-version="2" id="PageList2">
 <div class="col">
@@ -589,10 +233,7 @@ try {document.getElementsByClassName("price")[6].innerHTML = document.getElement
 الشروط والسياسات:
 </h3>
 <div class="widget-content">
-<a href="/privacyPolicy.php">سياسة الخصوصية</a><br>
-<a href="/HowToUse.php" aria-current="page">شروط الاستخدام</a><br>
-<a href="/echangeART.php" aria-current="page">سياسة الإستبدال والإسترجاع</a>
-</ol>
+<a href="/policySecurity.php"> سياسة الخصوصية الصفحة الرئيسية </a>
 </div>
 </div>
 </div><div class="widget Image" data-version="2" id="Image3">
@@ -618,13 +259,17 @@ try {document.getElementsByClassName("price")[6].innerHTML = document.getElement
 <a aria-label="telegram" class="social-icon" href="#"><svg><use href="#ic-telegram"></use></svg></a>
 <a aria-label="tiktok" class="social-icon" href="#"><svg><use href="#ic-tiktok"></use></svg></a>
 </div>
-<!-- copyright din était là-->
+</div></div><!--<br>
+<div class="copyright">
+<p id="cpyr">Copyright ©2024 All rights reserved | This template is made by <a href="https://www.t.me/CallAhniz">Ahniz-DevOps</a></p>
+</div>-->
 </footer>
 <style>
  .footer-info {
     padding: 15px 0;
     font-size: 14px;
     background-color: #efefef;
+    text-align:center;
               }
 </style>
 <div class="footer-info" class="copyright">
@@ -685,31 +330,7 @@ try {document.getElementsByClassName("price")[6].innerHTML = document.getElement
 <symbol id="ic-start" viewBox="1.5 1.5 15 15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></symbol>
 </svg>
 <div class="sticky-atc-btn " id="demo2"><a class="animate-shakex bgbtn" href="#price"> اشتري الآن</a></div>
-<?php
-session_start();
-if(file_exists('compteur_visites.txt'))
-{
-        $compteur_f = fopen('compteur_visites.txt', 'r+');
-        $compte = fgets($compteur_f);
-}
-else
-{
-        $compteur_f = fopen('compteur_visites.txt', 'a+');
-        $compte = 0;
-}
-if(!isset($_SESSION['compteur_de_visite']))
-{
-        $_SESSION['compteur_de_visite'] = 'visite';
-        $compte++;
-        fseek($compteur_f, 0);
-        fputs($compteur_f, $compte);
-}
-fclose($compteur_f);
-//echo '<strong><b>'.$compte.'</b></strong> visiteurs de site.';
-print("<center>");
-print("<font  color=\"green\" size=\"2\" face=\"Verdana\"> <strong> $compte </strong> <font  color=\"black\" size=\"2\" face=\"Verdana\"><i>&nbsp;Visiteurs <b>Ahniz | Shop</b> &nbsp;&nbsp;</i></font></font>");
-print("</center>");
-?>
+
 
 </body>
 </html>
